@@ -1,4 +1,4 @@
-# LiveKit-AI-Voice-Assitant
+# LiveKit-AI-Voice-Assistant
 
 # 💻 Launch Your Software Development Career Today!  
 
